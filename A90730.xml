@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable the Earl of Kent, lord chamberlain of Her Majesties houshold, &amp;c. This poem is humbly address'd, by your lordship's most obedient and most humble servant. Mary Pix.</title>
+            <author>Pix, Mary, 1666-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1705</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90730</idno>
+            <idno type="STC">Wing P2332A</idno>
+            <idno type="STC">ESTC N13603</idno>
+            <idno type="EEBO-CITATION">99899971</idno>
+            <idno type="PROQUEST">99899971</idno>
+            <idno type="VID">132429</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132429)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2504:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable the Earl of Kent, lord chamberlain of Her Majesties houshold, &amp;c. This poem is humbly address'd, by your lordship's most obedient and most humble servant. Mary Pix.</title>
+                  <author>Pix, Mary, 1666-1720.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1705?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page in the form of a dedication.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kent, Henry Grey, --  Earl of, 1594-1651 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132429:1"/>
+            <p>TO THE Right Honourable THE EARL OF KENT, Lord Chamberlain of
+Her Majeſties Houſhold, &amp;c. THIS POEM Is humbly Addreſs'd, BY Your
+LORDSHIP's <hi>Moſt Obedient and Moſt humble Servant.</hi> Mary Pix</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:132429:2"/>
+            <pb n="3" facs="tcp:132429:2"/>
+            <head>A POEM.</head>
+            <lg>
+               <l>DArk Chaos reign'd e're green the Earth o'reſpread,</l>
+               <l>And Nature ſeem'd beneath the Rubbiſh dead;</l>
+               <l>Then Light and Heat confus'd together lay,</l>
+               <l>And gave no promiſe of approaching Day:</l>
+               <l>Till the Great Word delighting to Create,</l>
+               <l>Ordain'd the various Chain of certain Fate.</l>
+               <l>What we call Change, diſcerning Mortals know,</l>
+               <l>In the firſt Cauſe was fix'd, and muſt be ſo:</l>
+               <l>Fortune and giddy Chance, vain words alone,</l>
+               <l>In wiſer happier Ages never known.</l>
+               <l>
+                  <pb n="4" facs="tcp:132429:3"/>The Almighty
+Wiſdom ſpake, and all around</l>
+               <l>Great Nature heard, and bleſs'd the awful Sound.</l>
+               <l>The Sun was call'd to Adorn the fragrant Eaſt,</l>
+               <l>Nor ſleeps he fan'd by <hi>Zephir's</hi> in the Weſt,</l>
+               <l>Since firſt he rowl'd along the Azure Sphere,</l>
+               <l>And ſwiftly meaſur'd the revoling Year:</l>
+               <l>No peaceful End his active Race has found,</l>
+               <l>Still fleeting on in one perpetual round.</l>
+               <l>Moiſture and Cold to th' diſtant North were hurl'd,</l>
+               <l>And beauteous Order grac'd the new made World:</l>
+               <l>Then Man was made Vice-Monarch of the whole,</l>
+               <l>Of Angel Form, with an Immortal Soul.</l>
+               <l>But tho' o're Creatures he extends his Sway,</l>
+               <l>Of higher Truſt, yet humane Fleſh is Clay,</l>
+               <l>And mould'ring frames to priſtine Duſt decay:</l>
+               <l>Virtue and Vice within the ſullen Grave,</l>
+               <l>Sink below Thought, and no diſtinction have.</l>
+               <l>Vainly the Hero wou'd his Lawrels boaſt,</l>
+               <l>If with his Life they wither'd and were loſt:</l>
+               <l>But Heaven that Wills great Acts ſhou'd live intire,</l>
+               <l>Struck forth a Spark of the Celeſtial Fire;</l>
+               <l>And ſtyl'd it Muſe, the Sovereign Queen of Fame,</l>
+               <l>Whoſe tuneful Art Records each noble Name:</l>
+               <l>She ſings the illuſtrious Virtues of the Great,</l>
+               <l>And makes them dear to each ſucceeding State.</l>
+               <l>
+                  <pb n="5" facs="tcp:132429:3"/>Whilſt in
+return to her immortal Song,</l>
+               <l>The Great and Good protect her humble Throng:</l>
+               <l>Bleſs'd with their Smiles the Muſe new Flights
+aſpires,</l>
+               <l>Redoubles all her Strengths, and kindles all her Fires.</l>
+            </lg>
+            <lg>
+               <l>And when her Patron ſhe wou'd ſtrive to ſing,</l>
+               <l>She calls her Train, and mounts upon the Wing.</l>
+               <l>'Tis You, my Lord, in this High Office ſtand,</l>
+               <l>The Great Protector of the Muſe's Land:</l>
+               <l>You their <hi>Paladium,</hi> whoſe conſenting Smile,</l>
+               <l>will make them Flouriſh in their much-lov'd Iſle.</l>
+               <l>When Ignorance, their blind inveterate Foe,</l>
+               <l>Seek their Diſgrace, and wou'd their Peace o'rethrow</l>
+               <l>Your Pow'r can drive the threatning Miſts away,</l>
+               <l>Defend their Lawrels in this ſtormy Day,</l>
+               <l>And all their Trophies at your Feet they'l lay:</l>
+               <l>They claim in you a faithful Vaſſal's Right,</l>
+               <l>You'r made for them and Muſick to delight.</l>
+               <l>The Vulgar World who huddl'd up in haſt,</l>
+               <l>Want the diſtinguiſhing diſcerning Taſte;</l>
+               <l>Affect not tuneful Numbers, moving Strains,</l>
+               <l>They hate the Muſe, and them the Muſe diſdains.</l>
+               <l>You ſhe Adores, nor bluſh, Great Sir, to find,</l>
+               <l>The Daring Muſe claim kindred with your Mind.</l>
+               <l>The favorite King whom all the World admir'd,</l>
+               <l>Was by the ſoft Harmonious Muſe inſpir'd;</l>
+               <l>He ſtruck the Sacred Lyre, and ſtrait around,</l>
+               <l>Infernal Spectors fled the Heavenly Sound,</l>
+               <l>Left the tormented Soul, &amp; cleft the trembling Ground.</l>
+               <l>
+                  <pb n="6" facs="tcp:132429:4"/>Hence 'tis we
+Poetry and Muſick trace,</l>
+               <l>And find them both of bright Immortal Race:</l>
+               <l>And from beneath they ſure derive their Birth,</l>
+               <l>Who ſlight their Power and hate them here on Earth</l>
+               <l>Own them, my Lord, they'r worthy of your Care,</l>
+               <l>Your leiſure Hours to their Diverſion ſpare.</l>
+               <l>I heard them ſigh and long to ſound your Name,</l>
+               <l>And write it large in the great Book of Fame.</l>
+               <l>Sleeping beneath <hi>Apollo</hi>'s Verdant Shade,</l>
+               <l>The Virgin Tree to Poets ſacred made,</l>
+               <l>Methought the Muſe deſcended gay and fair,</l>
+               <l>Wreaths ever young confin'd her flowing Hair;</l>
+               <l>Her Feet were even, and her Wings were ſpread,</l>
+               <l>Her Voice had Power to animate the Dead;</l>
+               <l>In her ſmooth hand an open Scrole ſhe bore,</l>
+               <l>Inſcrib'd with Names I oft had ſeen before;</l>
+               <l>Immortal <hi>Homer, Virgil</hi> moſt Divine,</l>
+               <l>The Poets of the <hi>Greek</hi> and <hi>Latin</hi> Line,</l>
+               <l>But turning quick I found the <hi>Britiſh</hi> Race,</l>
+               <l>A numerous Stock, and fill'd a glorious Space;</l>
+               <l>
+                  <hi>Chaucer</hi> and <hi>Spencer</hi> were preſerv'd with
+care,</l>
+               <l>But <hi>DRYDEN</hi> did in Capitals appear.</l>
+               <l>I ſaw her plain, and trembled at the ſight</l>
+               <l>Fierce was her Look, refulgent was her Light:</l>
+               <l>Ah, glorious Muſe, I cry'd, rais'd with ſurpriſe!</l>
+               <l>Queen of my Heart, and Wonder of my Eyes!</l>
+               <l>Com'ſt thou to me, the meaneſt of thy Train,</l>
+               <l>Whoſe Artleſs Numbers oft thy Fires Prophane:</l>
+               <l>
+                  <pb n="7" facs="tcp:132429:4"/>Hear and obey,
+ſhe ſaid, go ſtring thy Lyre,</l>
+               <l>And let the mighty Theme thy Breaſt inſpire:</l>
+               <l>Tell Noble <hi>KENT</hi> I ſmiling read his Fate,</l>
+               <l>And crowding Joys ſhall on his Wiſhes wait:</l>
+               <l>To every bright auſpicious Star I pray'd,</l>
+               <l>To dart the kindeſt Influence on this Head.</l>
+               <l>Hereditary Honours now he wears,</l>
+               <l>But greater ſtill ſhall bleſs his coming Years.</l>
+               <l>Next to the <hi>Paphian</hi> Queen I made requeſt,</l>
+               <l>That his ſoft Hours might be with Beauty bleſt;</l>
+               <l>The bliſs that does all other Joys improve:</l>
+               <l>For what is Life without the Cordial Love?</l>
+               <l>The charming Goddeſs with my Sute compli'd,</l>
+               <l>And gave the faireſt Nymph to be his Bride:</l>
+               <l>Adorn'd her Form with each peculiar Grace,</l>
+               <l>And Copied chaſt Perfection on her Face:</l>
+               <l>
+                  <hi>Lucina</hi> too her fruitful Gifts did ſhed</l>
+               <l>And little Cherubs bleſs the genial Bed.</l>
+               <l>Titles, and flowing Wealth, and pompeous State,</l>
+               <l>Show him the Juſt, the Happy, and the Great.</l>
+               <l>What can be added to exalted Bliſs?</l>
+               <l>What left to wiſh for in a Life like this?</l>
+               <l>As Rivers, Joys to his acceſſion flow,</l>
+               <l>He can no more receive but to beſtow.</l>
+               <l>So <hi>Egypt</hi>'s <hi>Nile</hi> ſurmounts the ſwelling
+Sand,</l>
+               <l>And bears its Plenty to the barren Land.</l>
+               <l>Old <hi>Rome</hi> Five Ages wonder and delight,</l>
+               <l>By me attain'd her envied matchleſs Height:</l>
+               <l>
+                  <pb n="8" facs="tcp:132429:5"/>Her
+Amphitheatres by my Sons were rais'd,</l>
+               <l>Some gave the Structures, ſome their Founders prais'd;</l>
+               <l>I both their Heroes and their Poets Fir'd,</l>
+               <l>They Fought, and Rul'd, and Wrote as I Inſpir'd,</l>
+               <l>Go warm Great <hi>KENT</hi> with generous Thoughts like
+theſe,</l>
+               <l>Who guards my Rites ſhall never fail to pleaſe.</l>
+               <l>Sickneſs and Shame o'retake that ſullen Race,</l>
+               <l>Who fly my Altars, and my Shrines deface:</l>
+               <l>But he will ſave you from their gloomy hate,</l>
+               <l>And to Preſerve is held as to Create.</l>
+               <l>To him ye drooping Throng your Griefs apply,</l>
+               <l>He'l hear your Wrongs, and no juſt Suit deny.</l>
+               <l>Come all ye Swains and fill the warbling Choir,</l>
+               <l>Let tuneful Rage the loftieſt ſtrains Inſpire:</l>
+               <l>Let Earth and Air reſound Great <hi>ANNA</hi>'s Name,</l>
+               <l>To liſt'ning Winds, and crowding Waves proclaim,</l>
+               <l>Your <hi>ANNA</hi>'s Glory, and your Patrons Fame.</l>
+               <l>Long may ſhe live, and every Bleſſing prove</l>
+               <l>With Victory Crown'd, and with her Subjects Love.</l>
+               <l>Whilſt Loyal <hi>KENT</hi> the Harmonious Train
+commands,</l>
+               <l>And takes the Garlands from their grateful Hands:</l>
+               <l>Myriads of Honours circle round his Head,</l>
+               <l>Such as may far exceed th' Illuſtrious Dead:</l>
+               <l>Bleſs'd be his Days, and to the Worlds above,</l>
+               <l>Oh let him late ye ſacred Powers remove.</l>
+               <l>Thus ſpake the Muſe, and vaniſh'd from my view,</l>
+               <l>And at your Feet I lay the humble Tribute due.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:132429:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
